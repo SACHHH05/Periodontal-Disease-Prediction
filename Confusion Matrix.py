@@ -10,6 +10,7 @@ import pandas as pd
 import zipfile
 import matplotlib.pyplot as plt
 
+
 img_height, img_width = 128, 128
 batch_size = 10
 epochs = 10
